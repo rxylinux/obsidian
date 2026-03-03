@@ -1,0 +1,22 @@
+{
+  "id": "conv-1772371988549-q48sox26k",
+  "title": "Check current time",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772371988549,
+  "updatedAt": 1772372052921,
+  "lastResponseAt": 1772371992688,
+  "sessionId": "c67b51b1-5a08-4438-bbae-173ee6e8a133",
+  "sdkSessionId": "c67b51b1-5a08-4438-bbae-173ee6e8a133",
+  "currentNote": "AI研究/AI学习/02-模型原理/CNN全面解析.md",
+  "usage": {
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "inputSpeed": 0,
+    "outputSpeed": 6.0338443816286285,
+    "outputTokens": 22
+  }
+}

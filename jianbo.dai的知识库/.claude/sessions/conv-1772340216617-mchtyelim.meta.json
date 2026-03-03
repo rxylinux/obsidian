@@ -1,0 +1,21 @@
+{
+  "id": "conv-1772340216617-mchtyelim",
+  "title": "Run system test",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772340216617,
+  "updatedAt": 1772340347346,
+  "lastResponseAt": 1772340225535,
+  "sessionId": "38cf6c2b-8b13-4a6d-a743-304baf8aafe3",
+  "sdkSessionId": "38cf6c2b-8b13-4a6d-a743-304baf8aafe3",
+  "currentNote": "AI研究/AI学习/02-模型原理/CNN全面解析.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "outputTokens": 0
+  }
+}

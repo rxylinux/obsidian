@@ -1,0 +1,30 @@
+{
+  "id": "conv-1772373126965-zom8nixh3",
+  "title": "Execute test",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772373126967,
+  "updatedAt": 1772373202522,
+  "lastResponseAt": 1772373136271,
+  "sessionId": "d4992bb9-c2c2-4ecd-8a82-7556bb235701",
+  "sdkSessionId": "d4992bb9-c2c2-4ecd-8a82-7556bb235701",
+  "currentNote": "AI研究/AI学习/02-模型原理/CNN全面解析.md",
+  "usage": {
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "inputSpeed": 75,
+    "outputSpeed": 746.9964664310954,
+    "outputTokens": 8456,
+    "_breakdown": {
+      "systemPromptTokens": 0,
+      "conversationHistoryTokens": 0,
+      "fileContentTokens": 0,
+      "toolOutputTokens": 0,
+      "userMessageTokens": 0,
+      "totalLocalCalculated": 0
+    }
+  }
+}

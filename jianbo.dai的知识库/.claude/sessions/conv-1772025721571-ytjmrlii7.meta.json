@@ -1,0 +1,19 @@
+{
+  "id": "conv-1772025721571-ytjmrlii7",
+  "title": "Compare AI aggregation models",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772025721571,
+  "updatedAt": 1772283998804,
+  "lastResponseAt": 1772283981151,
+  "sessionId": "dcf09f3d-6d26-44c3-8766-c117bac7709a",
+  "sdkSessionId": "dcf09f3d-6d26-44c3-8766-c117bac7709a",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

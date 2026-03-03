@@ -1,0 +1,22 @@
+{
+  "id": "conv-1772370918088-r5ah5mz5x",
+  "title": "Perform system test",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772370918089,
+  "updatedAt": 1772370991602,
+  "lastResponseAt": 1772370926626,
+  "sessionId": "a74c6208-7ec9-4c7a-90af-8feaf450c08e",
+  "sdkSessionId": "a74c6208-7ec9-4c7a-90af-8feaf450c08e",
+  "currentNote": "AI研究/AI学习/02-模型原理/CNN全面解析.md",
+  "usage": {
+    "inputTokens": 849,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 176000,
+    "contextWindow": 200000,
+    "contextTokens": 176849,
+    "percentage": 88,
+    "inputSpeed": 80.46554387675991,
+    "outputSpeed": 801.4330259386123,
+    "outputTokens": 8456
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "conv-1772371767955-wf2yg0iik",
+  "title": "Test system functionality",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772371767955,
+  "updatedAt": 1772371893846,
+  "lastResponseAt": 1772371820809,
+  "sessionId": "69e04a13-70db-4e65-b75e-67701e4cd750",
+  "sdkSessionId": "69e04a13-70db-4e65-b75e-67701e4cd750",
+  "currentNote": "AI研究/AI学习/02-模型原理/CNN全面解析.md",
+  "usage": {
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "inputSpeed": 0,
+    "outputSpeed": 48.052988160164865,
+    "outputTokens": 222
+  }
+}

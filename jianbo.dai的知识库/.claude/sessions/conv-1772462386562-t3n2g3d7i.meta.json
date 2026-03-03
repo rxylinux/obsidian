@@ -1,0 +1,19 @@
+{
+  "id": "conv-1772462386562-t3n2g3d7i",
+  "title": "Research VPS proxy setup for internet access",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772462386562,
+  "updatedAt": 1772544917292,
+  "lastResponseAt": 1772544909059,
+  "sessionId": "bffe5eaa-d61e-4d25-bb16-cdeb0a3b36ee",
+  "sdkSessionId": "bffe5eaa-d61e-4d25-bb16-cdeb0a3b36ee",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

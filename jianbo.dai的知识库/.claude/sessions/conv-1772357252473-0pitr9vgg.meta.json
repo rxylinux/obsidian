@@ -1,0 +1,21 @@
+{
+  "id": "conv-1772357252473-0pitr9vgg",
+  "title": "Start conversation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772357252474,
+  "updatedAt": 1772358586157,
+  "lastResponseAt": 1772358539091,
+  "sessionId": "8866d80f-1153-4f22-a76f-d8bf4202d2ee",
+  "sdkSessionId": "8866d80f-1153-4f22-a76f-d8bf4202d2ee",
+  "usage": {
+    "inputTokens": 849,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 176000,
+    "contextWindow": 200000,
+    "contextTokens": 176849,
+    "percentage": 88,
+    "inputSpeed": 5.0013519555632575,
+    "outputSpeed": 49.81322984245336,
+    "outputTokens": 8456
+  }
+}

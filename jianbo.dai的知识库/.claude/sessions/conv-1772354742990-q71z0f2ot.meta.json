@@ -1,0 +1,21 @@
+{
+  "id": "conv-1772354742990-q71z0f2ot",
+  "title": "Troubleshoot not working issue",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772354742990,
+  "updatedAt": 1772356825191,
+  "lastResponseAt": 1772356815077,
+  "sessionId": "0a9e9950-13cb-4c0f-8d2b-f23053422c14",
+  "sdkSessionId": "0a9e9950-13cb-4c0f-8d2b-f23053422c14",
+  "usage": {
+    "inputTokens": 849,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 176000,
+    "contextWindow": 200000,
+    "contextTokens": 176849,
+    "percentage": 88,
+    "inputSpeed": 12.144654420934282,
+    "outputSpeed": 120.96018584619586,
+    "outputTokens": 8456
+  }
+}

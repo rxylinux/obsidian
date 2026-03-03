@@ -1,0 +1,22 @@
+{
+  "id": "conv-1772353826376-fg1sd8syy",
+  "title": "Clarify request for ces",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772353826376,
+  "updatedAt": 1772353956013,
+  "lastResponseAt": 1772353896893,
+  "sessionId": "d85d7877-73ac-49e8-a5a6-e19bc7c1949f",
+  "sdkSessionId": "d85d7877-73ac-49e8-a5a6-e19bc7c1949f",
+  "currentNote": "AI研究/AI学习/02-模型原理/CNN全面解析.md",
+  "usage": {
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "inputSpeed": 0,
+    "outputSpeed": 18.67297398204581,
+    "outputTokens": 30
+  }
+}

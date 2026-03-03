@@ -1,0 +1,19 @@
+{
+  "id": "conv-1772287864910-71i94diib",
+  "title": "Research GNN fundamentals and architectures",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772287864910,
+  "updatedAt": 1772338684325,
+  "lastResponseAt": 1772338622257,
+  "sessionId": "9f93b147-b826-4056-95d3-446cb751359a",
+  "sdkSessionId": "9f93b147-b826-4056-95d3-446cb751359a",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

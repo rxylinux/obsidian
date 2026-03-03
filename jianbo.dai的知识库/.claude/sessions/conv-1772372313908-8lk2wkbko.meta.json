@@ -1,0 +1,22 @@
+{
+  "id": "conv-1772372313908-8lk2wkbko",
+  "title": "Run test",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772372313908,
+  "updatedAt": 1772372399162,
+  "lastResponseAt": 1772372337574,
+  "sessionId": "eec45c97-7568-4385-a03a-f2ff5cca78a7",
+  "sdkSessionId": "eec45c97-7568-4385-a03a-f2ff5cca78a7",
+  "currentNote": "AI研究/AI学习/02-模型原理/CNN全面解析.md",
+  "usage": {
+    "inputTokens": 849,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 176000,
+    "contextWindow": 200000,
+    "contextTokens": 176849,
+    "percentage": 88,
+    "inputSpeed": 33.05186690495108,
+    "outputSpeed": 329.19503715932433,
+    "outputTokens": 8456
+  }
+}

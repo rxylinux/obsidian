@@ -1,0 +1,22 @@
+{
+  "id": "conv-1772356828027-5qfel05e9",
+  "title": "Acknowledge positive feedback",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772356828028,
+  "updatedAt": 1772356852324,
+  "lastResponseAt": 1772356837487,
+  "sessionId": "b5d67ad5-f648-4fa4-83d4-3dd5d0414f45",
+  "sdkSessionId": "b5d67ad5-f648-4fa4-83d4-3dd5d0414f45",
+  "currentNote": "AI研究/AI学习/02-模型原理/CNN全面解析.md",
+  "usage": {
+    "inputTokens": 849,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 176000,
+    "contextWindow": 200000,
+    "contextTokens": 176849,
+    "percentage": 88,
+    "inputSpeed": 73.97016797921486,
+    "outputSpeed": 736.7393880238408,
+    "outputTokens": 8456
+  }
+}

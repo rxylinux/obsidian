@@ -1,0 +1,23 @@
+{
+  "id": "conv-1772358601402-pidi4kkty",
+  "title": "Discuss RAG technology",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772358601403,
+  "updatedAt": 1772361088814,
+  "lastResponseAt": 1772361018471,
+  "sessionId": "80a20661-954d-40db-9584-4aa6c54143c2",
+  "sdkSessionId": "80a20661-954d-40db-9584-4aa6c54143c2",
+  "currentNote": "AI研究/AI学习/02-模型原理/检索方式全面对比.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 849,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 176000,
+    "contextWindow": 200000,
+    "contextTokens": 176849,
+    "percentage": 88,
+    "inputSpeed": 23.269390473497573,
+    "outputSpeed": 231.76203279610775,
+    "outputTokens": 8456
+  }
+}
