@@ -1,0 +1,14 @@
+# Claude Code AI assistant session files
+.claude/sessions/
+
+# Obsidian workspace cache
+.obsidian/workspace/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
