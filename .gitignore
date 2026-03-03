@@ -9,6 +9,9 @@
 .obsidian/workspace-mobile.json
 .trash
 
+# Claude sessions
+.claude/sessions/
+
 # Thumbnails
 ._*
 
